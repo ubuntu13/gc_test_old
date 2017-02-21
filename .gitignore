@@ -1,0 +1,10 @@
+# Compiled source #
+###################
+*.pdb
+*.config
+*.manifest
+*.bitbug
+*.ico
+*.cache
+
+WindowsFormsApplication1/obj/
